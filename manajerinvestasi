@@ -8,6 +8,7 @@ h2   {color: lime;}
 p    {color: lime;}
 ul   {color: lime;}
 ol   {color: lime;}
+tr   {color: lime;}
 </style>
 </head>
 <body>
@@ -17,7 +18,7 @@ ol   {color: lime;}
 <p>Kami memberikan beragam pilihan produk investasi Reksa Dana untuk Anda sesuai dengan kebutuhan Anda. Saatnya menentukan Reksa Dana Anda sekarang!</p>
 <p>Bagi hasil hingga 10% perbulan atau 100% pertahun. Tertarik? Tunjukkan minat Anda berinvestasi bersama Pos Profit agar mengetahui persyaratan, peluang dan risiko berinvestasi di Pos Profit<p/>
 <p>INVESTASI MELALUI REKSA DANA MENGANDUNG RISIKO. CALON INVESTOR WAJIB MEMBACA DAN MEMAHAMI PROSPEKTUS SEBELUM MEMUTUSKAN UNTUK BERINVESTASI
-MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. RATU PROFIT BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
+MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. POS PROFIT BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
 DIAWASI OLEH OTORITAS JASA KEUANGAN</p>
 
 <h2>Ucapan Selamat Datang ketika sudah di Pos Profit</h2>
@@ -41,7 +42,7 @@ DIAWASI OLEH OTORITAS JASA KEUANGAN</p>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 66%;
 }
 
 td, th {
@@ -51,13 +52,13 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #00ff00;
+  background-color: #000000;
 }
 </style>
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Tabel Investor</h2>
 
 <table>
   <tr>
@@ -81,7 +82,7 @@ tr:nth-child(even) {
     <td>10.000 IDR</td>
   </tr>
   <tr>
-    <td>Mochamad Tabrani</td>
+    <td>MOCHAMAD TABRANI</td>
     <td>08999587888 - KASPRO</td>
     <td>10.000 IDR</td>
   </tr>
@@ -100,4 +101,3 @@ tr:nth-child(even) {
 
 </body>
 </html>
-
