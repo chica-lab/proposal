@@ -5,6 +5,7 @@
 body {background-color: black;}
 h1   {color: lime;}
 h2   {color: lime;}
+h3   {color: lime;}
 p    {color: lime;}
 ul   {color: lime;}
 ol   {color: lime;}
@@ -95,6 +96,84 @@ tr:nth-child(even) {
     <td>MOCHAMAD TABRANI</td>
     <td>6282264083228 - Link Aja</td>
     <td>20.000 IDR</td>
+  </tr>
+</table>
+
+<h2>Tabel Fiksi Perdagangan Oktober 2022</h2>
+<h3>Hitungan profit bunga berbunga</h3>
+
+<table>
+  <tr>
+    <th>Tanggal</th>
+    <th>Modal</th>
+    <th>Bunga 100%</th>
+    <th>Total</th>
+  </tr>
+  <tr>
+    <td>Oktober 2022</td>
+    <td>100</td>
+    <td>100</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>November 2022</td>
+    <td>200</td>
+    <td>200</td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>Desember 2022</td>
+    <td>400</td>
+    <td>400</td>
+    <td>800</td>
+  </tr>
+  <tr>
+    <td>Januari 2023</td>
+    <td>800</td>
+    <td>800</td>
+    <td>1,600</td>
+  </tr>
+  <tr>
+    <td>Februari 2023</td>
+    <td>1,600</td>
+    <td>1,600</td>
+    <td>3,200</td>
+  </tr>
+  <tr>
+    <td>Maret 2023</td>
+    <td>3,200</td>
+    <td>3,200</td>
+    <td>6,400</td>
+  </tr>
+  <tr>
+    <td>April 2023</td>
+    <td>6,400</td>
+    <td>6,400</td>
+    <td>12,800</td>
+  </tr>
+  <tr>
+    <td>Mei 2023</td>
+    <td>6,400</td>
+    <td>6,400</td>
+    <td>12,800</td>
+  </tr>
+  <tr>
+    <td>Juni 2023</td>
+    <td>12,800</td>
+    <td>12,800</td>
+    <td>25,600</td>
+  </tr>
+  <tr>
+    <td>Juli 2023</td>
+    <td>25,600</td>
+    <td>25,600</td>
+    <td>51,200</td>
+  </tr>
+<tr>
+    <td>Agustus 2023</td>
+    <td>51,200</td>
+    <td>51,200</td>
+    <td>102,400</td>
   </tr>
 </table>
 
